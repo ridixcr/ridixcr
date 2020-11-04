@@ -25,7 +25,7 @@ A technology enthusiast who loves to explore new technologies and leverage it to
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/gradle/gradle-plain.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/intellij/intellij-original.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellig.png" alt="" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="" width="40" height="40"/>
