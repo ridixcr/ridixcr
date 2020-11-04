@@ -35,4 +35,6 @@ A technology enthusiast who loves to explore new technologies and leverage it to
  </p>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ridixcr&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=contribs" alt="ridixcr" />
+<br/>
+<img alt="spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=2144hyisuqhgpjtjhtzu3iyva&cover_image=true&theme=novatoreme" />
 </div>
