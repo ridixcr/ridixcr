@@ -1,7 +1,7 @@
 ### Hi! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I am Pavel.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridixcr" alt="ridixcr"/></p>
 A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems. <a href="#"><img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"></a>
-
+<br />
  🔭 I’m currently working on something cool :wink: <br />
  👨‍💻Let's Learn and grow <br /> 
  ⚡ Fun fact: I :heart:  :dash: :computer:,:video_game:, :turtle:<br /> 
