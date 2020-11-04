@@ -9,10 +9,10 @@ A technology enthusiast who loves to explore new technologies and leverage it to
  <br />
  <p>
   <a href="https://www.linkedin.com/in/ridixcr/">
-    <img src="https://img.shields.io/badge/ridixcr-ridixcr-green?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/_-ridixcr-green?style=flat&logo=linkedin">
   </a> &nbsp; 
   <a href="https://twitter.com/ridixcr">
-    <img src="https://img.shields.io/badge/ridixcr-ridixcr-green?style=flat&logo=twitter">
+    <img src="https://img.shields.io/badge/_-ridixcr-green?style=flat&logo=twitter">
   </a> 
 </p>
 
