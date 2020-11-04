@@ -36,4 +36,7 @@ A technology enthusiast who loves to explore new technologies and leverage it to
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ridixcr&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=contribs" alt="ridixcr" />
 </div>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2144hyisuqhgpjtjhtzu3iyva&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2144hyisuqhgpjtjhtzu3iyva&redirect=true)
+
+<p align="center">
+<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=2144hyisuqhgpjtjhtzu3iyva&cover_image=true&theme=novatorem" />
+</p>
