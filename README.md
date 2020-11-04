@@ -18,6 +18,9 @@ A technology enthusiast who loves to explore new technologies and leverage it to
 
  <br />
 <p align="center">
+<img src="https://wac-cdn.atlassian.com/assets/img/favicons/bitbucket/apple-touch-icon.png" alt="" width="40" height="40"/>
+<img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="" width="40" height="40"/>
+<img src="https://refwarlockprog.files.wordpress.com/2017/11/use2.png" alt="" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="" width="40" height="40"/>
 <img src="https://azure.github.io/azure-sdk/images/azure-icon.png" alt="" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="" width="40" height="40"/>
