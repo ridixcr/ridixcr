@@ -2,12 +2,10 @@
 
 A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems. <a href="#"><img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"></a>
 
- 🔭 I’m currently working on something cool :wink:
- 👨‍💻Let's Learn and grow
- ⚡ Fun fact: I :heart:  :dash: :computer:,:video_game:, :turtle:
- 📫 How to reach me: 
- 
- <br />
+ 🔭 I’m currently working on something cool :wink: <br />
+ 👨‍💻Let's Learn and grow <br /> 
+ ⚡ Fun fact: I :heart:  :dash: :computer:,:video_game:, :turtle:<br /> 
+ 📫 How to reach me: <br />
  <br />
  <p>
   <a href="https://www.linkedin.com/in/ridixcr/">
