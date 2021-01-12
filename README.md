@@ -18,24 +18,24 @@ A technology enthusiast who loves to explore new technologies and leverage it to
 
  <br />
 <p align="center">
-<img src="resources/icons/git.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/amazonwebservices-original.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/azure-offical.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/docker-original.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/kubernetes.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/agile.png" alt="" width="40" height="40"/>
-<img src="resources/icons/linux-plain.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/java-original.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/nodejs-original.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/php-original.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/gradle-plain.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/IntelliJ_IDEA_Logo.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/typescript-original.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/angularjs-original.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/css3-original-wordmark.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/html5-original-wordmark.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/npm-original-wordmark.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/vscode.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/git.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/amazonwebservices-original.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/azure-offical.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/docker-original.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/kubernetes.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/agile.png" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/linux-plain.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/java-original.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/nodejs-original.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/php-original.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/gradle-plain.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/IntelliJ_IDEA_Logo.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/typescript-original.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/angularjs-original.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/css3-original-wordmark.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/html5-original-wordmark.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/npm-original-wordmark.svg" alt="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/ridixcr/ridixcr/master/resources/icons/vscode.svg" alt="" width="40" height="40"/>
  </p>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ridixcr&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=contribs" alt="ridixcr" />
