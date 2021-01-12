@@ -19,22 +19,22 @@ A technology enthusiast who loves to explore new technologies and leverage it to
  <br />
 <p align="center">
 <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="" width="40" height="40"/>
 <img src="https://azure.github.io/azure-sdk/images/azure-icon.png" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="" width="40" height="40"/>
 <img src="https://avatars3.githubusercontent.com/u/13629408?s=200&v=4" alt="" width="40" height="40"/>
 <img src="https://vectorified.com/images/agile-icon-29.png" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-plain.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-plain.svg" alt="" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/gradle/gradle-plain.svg" alt="" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellig.png" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg" alt="" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original-wordmark.svg" alt="" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original-wordmark.svg" alt="" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/npm/npm-original-wordmark.svg" alt="" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="" width="40" height="40"/>
  </p>
 <div align="center">
