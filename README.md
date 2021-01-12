@@ -35,7 +35,7 @@ A technology enthusiast who loves to explore new technologies and leverage it to
 <img src="resources/icons/css3-original-wordmark.svg" alt="" width="40" height="40"/>
 <img src="resources/icons/html5-original-wordmark.svg" alt="" width="40" height="40"/>
 <img src="resources/icons/npm-original-wordmark.svg" alt="" width="40" height="40"/>
-<img src="resources/icons/visualstudio-plain.svg" alt="" width="40" height="40"/>
+<img src="resources/icons/vscode.svg" alt="" width="40" height="40"/>
  </p>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ridixcr&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=contribs" alt="ridixcr" />
