@@ -29,13 +29,13 @@ A technology enthusiast who loves to explore new technologies and leverage it to
 <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/gradle/gradle-plain.svg" alt="" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellig.png" alt="" width="40" height="40"/>
+<img src="https://github.com/coderjojo/coderjojo/raw/master/img/intellij.png" alt="" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg" alt="" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original-wordmark.svg" alt="" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original-wordmark.svg" alt="" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/npm/npm-original-wordmark.svg" alt="" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" alt="" width="40" height="40"/>
  </p>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ridixcr&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=contribs" alt="ridixcr" />
