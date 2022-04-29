@@ -42,5 +42,5 @@ A technology enthusiast who loves to explore new technologies and leverage it to
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ridixcr" alt="ridixcr"/></p>
 <p align="center">
-<!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=2144hyisuqhgpjtjhtzu3iyva&cover_image=true&theme=novatorem" />-->
+<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=2144hyisuqhgpjtjhtzu3iyva&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" /> 
 </p>
